@@ -1,22 +1,19 @@
 # Basic Information 
-title: Your Name
-position: Ph.D. Student
-affiliation: Your Affiliation
-email: yourname (at) example.edu
+title: Octavio Rodríguez Cordones
+position: Undergraduate Student, Electrical Engineering
+affiliation: Universidad de Chile (FCFM)
+email: octavio (dot) rodriguez (at) ing (dot) uchile (dot) cl
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
-keywords: minimal light
-description: The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.
+keywords: radio astronomy, instrumentation, beamforming, RFI mitigation, dynamical systems, control
+description: Personal website of Octavio Rodríguez Cordones, electrical engineering undergraduate at Universidad de Chile.
 canonical: https://minimal-light-theme.yliu.me/
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
-google_scholar: https://scholar.google.com/
-cv_link: assets/files/curriculum_vitae.pdf
-github_link: https://github.com/
-linkedin: https://www.linkedin.com/
-twitter: https://twitter.com/
+github_link: https://github.com/octrodriguez
+linkedin: https://www.linkedin.com/in/octavio-rodriguez-cordones/
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
@@ -36,9 +33,7 @@ auto_dark_mode: true
 # You can use this option to choose between Serif or Sans Serif fonts.
 font: "Serif" # or "Sans Serif"
 
-# Google Analytics ID
-# Please remove this if you don't use Google Analytics
-google_analytics: UA-111540567-4
+
 
 # Use this project as a remote theme for GitHub Pages
 # See the guide here: https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll
