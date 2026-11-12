@@ -6,6 +6,8 @@ layout: homepage
 
 I'm an electrical engineering undergraduate at Universidad de Chile (expected 2029), focusing on astronomical instrumentation and electronics. Since August 2026 I have been working on radio-frequency interference (RFI) mitigation with adaptive beamforming for CHARTS, a radio array for fast radio bursts, under the supervision of Prof. Tomás Cassanelli. I plan to continue with graduate studies in astronomical instrumentation.
 
+ORCID: [0009-0008-7399-5519](https://orcid.org/0009-0008-7399-5519)
+
 ## Research Interests
 
 Dynamical systems and control, radio astronomy and data processing, array signal processing and RFI mitigation, electromagnetism, and digital systems.
