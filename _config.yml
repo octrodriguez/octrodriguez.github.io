@@ -1,52 +1,39 @@
-# Basic Information 
+# Basic Information
 title: Octavio Rodríguez Cordones
 position: Undergraduate Student, Electrical Engineering
 affiliation: Universidad de Chile (FCFM)
+affiliation_link: https://ingenieria.uchile.cl
 email: octavio (dot) rodriguez (at) ing (dot) uchile (dot) cl
 
 # Search Engine Optimization (SEO)
-# The following information is used to improve the website traffic from search engines, e.g., Google.
 keywords: radio astronomy, instrumentation, beamforming, RFI mitigation, dynamical systems, control
 description: Personal website of Octavio Rodríguez Cordones, electrical engineering undergraduate at Universidad de Chile.
-canonical: https://minimal-light-theme.yliu.me/
 
-# Links 
-# If you don't need one of them, you may delete the corresponding line.
+# Links
 github_link: https://github.com/octrodriguez
 linkedin: https://www.linkedin.com/in/octavio-rodriguez-cordones/
 
-# Images (e.g., your profile picture and your website's favicon) 
-# "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
+# Images (profile picture and favicons for light and dark modes)
 avatar: /assets/img/avatar.jpg
 favicon: /assets/img/favicon.png
 favicon_dark: /assets/img/favicon-dark.png
 
-# Footnote
-# You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
+# Footnote ("Powered by Jekyll and Minimal Light theme.")
 enable_footnote: true
 
-# Auto Dark Mode
-# You may use the option to disable the automatic dark theme
+# Automatic dark theme
 auto_dark_mode: true
 
-# Font
-# You can use this option to choose between Serif or Sans Serif fonts.
-font: "Serif" # or "Sans Serif"
+# Font: "Serif" or "Sans Serif"
+font: "Serif"
 
-
-
-# Use this project as a remote theme for GitHub Pages
-# See the guide here: https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll
+# Theme source
 remote_theme: yaoyao-liu/minimal-light
 
-# The following files will be removed from the generated website.
+# Files excluded from the generated website
 exclude:
   - Gemfile
   - Gemfile.lock
   - README.md
-  - README_zh_Hans.md
-  - README_zh_Hant.md
-  - README_de.md
   - LICENSE
   - minimal-light.gemspec
-  - html_source_file/
