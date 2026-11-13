@@ -122,7 +122,7 @@ Changes to the requirements between reports: R2 added the medium-wave rejection;
 
 ## Proposed test plan
 
-Report 2 defines eight tests, P0–P7, each linked to a requirement: bias point, tuning range, selectivity, gain, output impedance, out-of-band IIP3 with a resistive two-tone combiner, noise figure by the gain method with the Friis formula [10], using the RTL-SDR as a calibrated power meter, and supply current. **These tests were proposed but not performed.**
+The design report defines eight tests, P0–P7, each linked to a requirement: bias point, tuning range, selectivity, gain, output impedance, out-of-band IIP3 with a resistive two-tone combiner, noise figure by the gain method with the Friis formula [10], using the RTL-SDR as a calibrated power meter, and supply current. **These tests were proposed but not performed.**
 
 ## Future work
 
@@ -134,9 +134,9 @@ Report 2 defines eight tests, P0–P7, each linked to a requirement: bias point,
 
 ## Downloads
 
-- [Report 2: final design (PDF, in Spanish)](hf-preselector-report-2-es.pdf). Datasheet appendix removed; see the links in the references.
-- [Report 1: problem and proposed solution, first design (PDF, in Spanish)](hf-preselector-report-1-es.pdf)
 - [Schematic (PNG)](schematic.png)
+
+The full design reports (in Spanish) are available on request.
 
 ## References
 
