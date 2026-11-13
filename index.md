@@ -21,7 +21,7 @@ What draws me to all of this is physics, and cosmology in particular: I'm intere
 ## Projects
 
 - **RFI mitigation with adaptive beamforming — CHARTS** *(research, ongoing)*. Adaptive (MVDR) spatial filtering to suppress fixed-direction interferers in a transit radio array for fast radio bursts.
-- **Active HF Preselector** *(EL3202 Analog Circuits, 2026)*. Tunable 3.5–10 MHz bandpass preselector that protects a low-cost SDR from medium-wave AM overload. Design and simulation complete; not built.
+- **[Active HF Preselector](/projects/hf-preselector/)** *(EL3202 Analog Circuits, 2026)*. Tunable 3.5–10 MHz bandpass preselector that protects a low-cost SDR from medium-wave AM overload. Design and simulation complete; not built.
 
 <!-- After Nov 29: Automated optical inspection of PCBs with classical computer vision (EL3201, with Joaquín García and Luciano Lagos). -->
 
